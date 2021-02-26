@@ -31,6 +31,8 @@ def move_fish():
     speed[1] *= -1
     fish_image = pygame.transform.flip(fish_image, False, True)
     fish_rect.move_ip(0, speed[1])
+#asdkfjlaskdjf
+#asdkfjlkjf
 
 
 def main():
